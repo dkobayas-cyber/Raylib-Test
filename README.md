@@ -21,7 +21,9 @@ Environment setup
 - Build raylib 
 
   Navigate to `C:\raylib\raylib\examples\` folder on Command Prompt and type: 
-  `mingw32-make PLATFORM=PLATFORM_DESKTOP`
+  ```
+  mingw32-make PLATFORM=PLATFORM_DESKTOP
+  ```
   The build is successful if you get `"raylib static library generated (librarylib.a) in ../src!"` You now have a `librarlib.a` in a `..\src\` directory.
   
 - Required files
