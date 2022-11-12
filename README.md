@@ -1,6 +1,6 @@
 # Raylib-Test
 
-Example C prgrams are compiled and ran by following a tutorial by Rudy Faile (https://www.youtube.com/watch?v=HPDLTQ4J_zQ)
+This is a minimum example of Raylib-based C programes based on a tutorial by Rudy Faile (https://www.youtube.com/watch?v=HPDLTQ4J_zQ)
 
 Environment setup
 ---
@@ -28,6 +28,10 @@ Environment setup
 
   - Make `include` direcotry and copy/paste `raylib.h` file. 
   - Make `lib` direcotry and copy/paste `librarlib.a` file. 
+
+Example programs
+--- 
+Example programs are found in `raylib\raylib\example\core\`
   
 Compilation 
 ---
